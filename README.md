@@ -11,6 +11,7 @@ For preprocessing the data we have converted the images from RGB to Gray scale a
 The key difference between traditional and custom CNN is that, the proposed CNN dynamically uses a weight matrix and for each operation a locally positioned Kernel is used to calculate the weighted sum. 
 
 **Refer the image below for a better understanding**
+
 ![alt text](https://github.com/AnaghaVinayakKamat/Custom-CNN-Image-Classification/blob/8c894c832376b490b36ee6ec228868fb13894c35/img/working.png)
 
 # Outcome of the Experiment:
